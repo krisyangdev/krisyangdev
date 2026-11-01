@@ -1,4 +1,4 @@
-I'm Kris Yang, an independent developer in Shanghai. I make web games, shaders and motion with AI agents, and share the workflows.
+I'm Kris Yang, an independent developer in Shanghai. I make web games, shaders and motion with AI agents, and share the workflows and Skills.
 
 [krisyang.dev](https://krisyang.dev) · [X @krisyangdev](https://x.com/krisyangdev) · [ruiyang0012@gmail.com](mailto:ruiyang0012@gmail.com)
 
